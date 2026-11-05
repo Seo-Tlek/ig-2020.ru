@@ -1,0 +1,2 @@
+# Cloudflare Pages: force HTTPS and apex host if needed via DNS.
+# Trailing slash URLs use folder/index.html on static hosting.
